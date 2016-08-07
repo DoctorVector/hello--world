@@ -1,2 +1,2 @@
 # hello--world
-Just a boring repository
+Just a regular old boring repository
